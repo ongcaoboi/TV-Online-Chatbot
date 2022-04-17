@@ -1,0 +1,161 @@
+{
+  "name": "Name of the corpus",
+  "locale": "vi",
+  "data": [
+    {
+      "intent": "greetings.hello",
+      "utterances": [
+        "hi",
+        "hello",
+        "xin chào",
+        "xin chao",
+        "chao chatbot",
+        "chào bot",
+        "hey",
+        "helu",
+        "halo",
+        "chào anh",
+        "chào em",
+        "chào chú",
+        "chào bác",
+        "chào cô",
+        "ê",
+        "hê lu",
+        "bot ơi",
+        "hỏi tý nè"
+      ],
+      "answers": [
+        "Chào bạn, tôi có thể giúp gì cho bạn!",
+        "Tôi là chatbot TV và rất hân hạnh được phục vụ bạn."
+      ]
+    },
+    {
+      "intent": "greetings.bye",
+      "utterances": [
+        "bye",
+        "tạm biệt nha",
+        "tạm biệt",
+        "chào bot nhé",
+        "bye bot",
+        "tạm biệt em"
+      ],
+      "answers": [
+        "Cảm ơn bạn đã sử dụng dịch vụ, chúc bạn một ngày vui vẻ!",
+        "Chúc bạn vui vẻ, nhớ ủng hộ tôi nhé"
+      ]
+    },
+    {
+      "intent": "greetings.thanks",
+      "utterances": [
+        "cảm ơn",
+        "cảm ơn nha",
+        "cam on",
+        "thank bot",
+        "cảm ơn bot",
+        "cảm ơn bạn",
+        "thanks bot",
+        "thanks nhé"
+      ],
+      "answers": [
+        "Không có gì, đó là sứ mệnh của tôi.",
+        "Cảm ơn thế thôi hả, mở ứng dụng ra coi phim đi :v"
+      ]
+    },
+    {
+      "intent": "Complaint",
+      "utterances": [
+        "Dịch vụ thật tệ",
+        "Chăm sóc khách hàng không tốt",
+        "Phải nói là kém chất lượng",
+        "sản phẩm xấu và chậm, tôi không thể hài lòng",
+        "Thiếu tính năng quan trọng",
+        "Không có gì nổi bật",
+        "Dễ hỏng quá vậy",
+        "Quá kém",
+        "Chất kém quá",
+        "Toàn phim giở hơi thôi",
+        "Thật là mất thời gian mà",
+        "Không được như tôi kỳ vọng",
+        "Xấu quá",
+        "Màu sắc kém sinh động",
+        "Màn hình bị mờ và nhòe",
+        "Kém linh hoạt",
+        "Toàn phim giở hơi"
+      ],
+      "answers": [
+        "Thật xin lỗi nếu chúng tôi không thể đáp ứng kỳ vọng của bạn, bạn vui lòng thông cảm!",
+        "Xin lỗi vì tôi cùi bắp quá hix hix"
+      ]
+    },
+    {
+      "intent": "toxic.ngu",
+      "utterances": [
+        "Botngu!",
+        "botngu!",
+        "!Botngu",
+        "bot ngu",
+        "!bot ngu",
+        "Ngu"
+      ],
+      "answers": [
+        "Ngu kệ tao.",
+        "Chắc gì mày đã khôn hơn tao.",
+        "Thật nực cười,.."
+      ]
+    },
+    {
+      "intent": "quiz.phim",
+      "utterances": [
+        "Có phim gì hay không",
+        "Phim mới nhất năm",
+        "Phm mới",
+        "Phim hay",
+        "Gợi ý cho tôi ít phim đi",
+        "Giúp tôi kiếm phim đi",
+        "Phim gì cũng được"
+      ],
+      "answers": [
+        "Bạn có thể xem thử 'Vệ binh dải ngân hà, Bác sĩ Johan.",
+        "Hãy coi thử Chiến binh mùa đông, Tái sinh báo thù.",
+        "Thử coi Phàm nhân tu tiên đi.",
+        "Chúng ta đều phải sống tốt.",
+        "Bạn hãy xem thử anime Sự trỗi dậy của Khiên Hiệp Sĩ.",
+        "Người nhện mới ra mắt phần mới đó, hãy coi thử đi.",
+        "Bỗng dưng muốn khóc, nhưng coi sẽ không khóc :v",
+        "Phim siêu anh hùng hay lắm nè: Iroman",
+        "Phm ấn độ nhưng không phi vật lý: 3 chàng ngốc"
+      ]
+    },
+    {
+      "intent": "quiz.help",
+      "utterances": [
+        "Bạn có thể làm gì",
+        "Bạn làm được gì?"
+      ],
+      "answers": [
+        "Tôi có thể gợi ý phim cho bạn xem.",
+        "Tôi sẽ giúp bạn tìm thấy phim mình mong muốn.",
+        "Đương nhiền là hỗ trợ bạn tìm phim rồi."
+      ]
+    },
+    {
+      "intent": "quiz.phim-res",
+      "utterances": [
+        "Ok",
+        "Được rồi",
+        "Tuyệt cú mèo",
+        "Được đấy",
+        "Nice",
+        "nice",
+        "Tốt lắm",
+        "Nghe hay đấy",
+        "có thể thử đó"
+      ],
+      "answers": [
+        "Muốn tìm tiếp cứ nói tôi.",
+        "Còn nhiều phim hay lắm đó, mở ứng dụng và coi ngay.",
+        "Ok"
+      ]
+    }
+  ]
+}

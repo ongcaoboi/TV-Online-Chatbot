@@ -1,0 +1,24 @@
+{
+  "name": "chatbot_1",
+  "version": "1.0.0",
+  "description": "chatbot tieng viet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node ./src/server.js"
+  },
+  "author": "junha",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "@nlpjs/basic": "^4.23.4",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
